@@ -181,7 +181,7 @@
                 </plugin>
                 <plugin>
                     <artifactId>maven-invoker-plugin</artifactId>
-                    <version>1.5</version>
+                    <version>3.2.1</version>
                 </plugin>
             </plugins>
         </pluginManagement>
