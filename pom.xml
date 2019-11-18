@@ -104,7 +104,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.version>3.0</maven.version>
+        <maven.version>3.6.2</maven.version>
     </properties>
 
     <dependencyManagement>
