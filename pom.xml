@@ -188,7 +188,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-enforcer-plugin</artifactId>
-                <version>1.0</version>
+                <version>1.4.1</version>
                 <executions>
                     <execution>
                         <id>enforce-dependencies</id>
